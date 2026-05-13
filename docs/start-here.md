@@ -1,4 +1,5 @@
 # Start Here
+Doing these items will help set up your template so that you can quickly copy and paste your favorite sections and it will be instantly ready to view. 
 
 ## Decisions
 Our templates are dsigned to save you time by automatically adding your colors. 
