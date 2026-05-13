@@ -12,7 +12,10 @@
     window.$docsify = {
       name: 'My Documentation',
       loadSidebar: true,
-      repo: 'gracefulform/quick-html-template-creator/'
+      alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+      },
+        repo: 'gracefulform/quick-html-template-creator/'
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
