@@ -10,7 +10,7 @@ Our templates are dsigned to save you time by automatically adding your colors.
 ## Ready to Begin?
 1. Inside a folder, create a blank file *index.html* and a folder called *images*.
 2. Paste the following code into your *index.html* file.
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,3 +33,4 @@ Our templates are dsigned to save you time by automatically adding your colors.
 </body>
 </html>
 ```
+
