@@ -1,2 +1,2 @@
-- [Home](README.md)
-- [Start Here](start-here.md)
+- [Home](README.md "Quickly create a beautiful and responsive HTML template.")
+- [Start Here](start-here.md "The first steps to creating your beautiful template.")
