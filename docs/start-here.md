@@ -1,9 +1,12 @@
-# Decisions
+# Start Here
+
+## Decisions
 Our templates are dsigned to save you time by automatically adding your colors. 
 * .w3-theme1 will be the color on your menu bar and your h2 titles.
 * .w3-theme2 will be the color of your h1 titles and sections with a colored background.
 * .w3-theme3 will be the color of your buttons, hyperlinks, and your h3 titles.
-# Ready to Begin?
+
+## Ready to Begin?
 1. Inside a folder, create a blank file *index.html* and a folder called *images*.
 2. Paste the following code into your *index.html* file.
 ```
