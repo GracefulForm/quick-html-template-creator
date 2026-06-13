@@ -5,7 +5,7 @@ taxonomy:
     category: docs
 ---
 
-Easy HTML Template >> Creator
+EasyHTMLTemplate.com  >> Creator
 
 # Introduction
 
