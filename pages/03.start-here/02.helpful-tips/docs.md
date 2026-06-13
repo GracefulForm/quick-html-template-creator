@@ -7,6 +7,8 @@ taxonomy:
         - docs
 ---
 
+[TOC]
+
 Here are some things we've done to help you to go faster.
 
 ## Colors
