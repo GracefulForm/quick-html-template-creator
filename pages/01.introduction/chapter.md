@@ -9,4 +9,5 @@ EasyHTMLTemplate.com  >> Creator
 
 # Introduction
 
-Welcome to the Easy HTML Template Creator. New coders and experienced developers can use this free tool to quickly create a beautiful, modern, and responsive HTML template.
+Welcome to the Easy HTML Template Creator!
+New coders and experienced developers can use this free tool to quickly create a beautiful, modern, and responsive HTML template.
