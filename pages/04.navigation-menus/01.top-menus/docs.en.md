@@ -13,13 +13,10 @@ published: true
 This menu keeps your business name on the left and your other links to the right.
 
 ![A professional top navigation menu with the business name on the left.](left_menu_sample.png "Left Menu Example")
-Example of Full Menu
 
 ![Sample menu on small screen.](small_menu_L.png "Responsive Menu on Small Screen")
-Example of Responsive Menu on Small Screen
 
 ![Sample open menu on small screen.](open_small_menu_L.png "Open Menu on Small Screen")
-Example of Open Menu on Small Screen
 
 ```html
 <nav class="w3-blue w3-bar">
@@ -45,10 +42,8 @@ Example of Open Menu on Small Screen
 This menu looks good if you already have your business name or logo at the top of your site.
 
 ![Sample centered menu.](center_menu_sample.png "Sample of Centered Menu")
-Example of Centered Menu
 
 ![Sample centered menu on small screen.](small_menu_C.png "Sample of Responsive Centered Menu on a Small Screen")
-Example of Centered Menu on Small Screen
 
 ![Sample opened small centered menu](open_small_,menu_C.png "Sample of Opened Centered Menu on a Small Screen")
 
