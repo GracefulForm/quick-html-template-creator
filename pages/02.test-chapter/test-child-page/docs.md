@@ -4,6 +4,7 @@ date: '21:03 13-06-2026'
 taxonomy:
     category:
         - docs
+published: true
 ---
 
 Your page content goes here.ffffff
