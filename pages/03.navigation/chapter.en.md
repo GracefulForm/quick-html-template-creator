@@ -1,5 +1,5 @@
 ---
-title: 'Navigation Menus'
+title: Navigation
 date: '21:44 13-06-2026'
 taxonomy:
     category: docs
