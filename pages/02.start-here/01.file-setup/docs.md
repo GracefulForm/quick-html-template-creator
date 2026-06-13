@@ -15,7 +15,7 @@ All you need is a blank *index.html* file and an *images* folder to put your pic
 ![file-setup](file-setup.png "Our creator only requires two simple files for your whole template.")
 
 ## Standard Site
-Choose this as your starting code if the page you are making a page that will **not have a sidebar.**
+Choose this as your starting code if the page you are making will **not have a sidebar.**
 
 Paste the following html code into your *index.html* file.
 
