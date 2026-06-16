@@ -54,7 +54,7 @@ This menu looks good if you already have your business name or logo at the top o
 		<a href="#" class="w3-button w3-hide-small">News</a>
 		<a href="#" class="w3-button w3-hide-small">Contact</a>
 	</div>
-	<a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="responsiveNav()">☰</a>
+    <a href="javascript:void(0)" class="w3-border-white w3-border-left w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="responsiveNav()">Menu</a>
 </nav>
 <nav id="miniNav" class="w3-lime w3-bar-block w3-hide w3-hide-large w3-hide-medium">
 	<a href="#" class="w3-bar-item w3-button">About</a>
