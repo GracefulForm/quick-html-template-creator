@@ -25,6 +25,7 @@ We put "To Do" items in the code comments to help you. Delete these any time.
 
 ## Final Words
 
-Once you realize how much time and money you've saved from our website, would you mind dropping a small donation?
+Once you realize how much time and money you've saved from our website, would you mind dropping a small tip or donation?
+ddd
 
 Thank you!
