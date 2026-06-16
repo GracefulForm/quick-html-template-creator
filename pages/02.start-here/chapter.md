@@ -6,8 +6,6 @@ taxonomy:
     category: docs
 ---
 
-EasyHTMLTemplate.com >> Creator
-
 # Start Here
 
 This is the information you need to get started quickly and correctly.
