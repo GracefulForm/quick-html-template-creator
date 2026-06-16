@@ -9,15 +9,12 @@ media_order: file-setup.png
 ---
 
 ## File Setup
-
 All you need is a blank *index.html* file and an *images* folder to put your pictures in. That's it!
 
 ![file-setup](file-setup.png "Our creator only requires two simple files for your whole template.")
 
-## Standard Site
-Choose this as your starting code if the page you are making will **not have a sidebar.**
-
-Paste the following html code into your *index.html* file.
+## Starting Code
+Paste the following HTML code into your *index.html* file.
 
 ```html
 <!--
@@ -48,14 +45,6 @@ To Do:
 </html>
 ```
 
-## Sidebar Site
-This is your starting code if you are using a sidebar (like this site.)
-
-```html
-<p>Coming Soon!</p>
-```
-
 ## Previewing Your Page
-
-No server needed. As long as your computer is set to open .html files in a browser, you can view your site instantly at any time!
+No server needed. Your computer should be able to open .html files with your browser and preview all you want.
 
