@@ -5,7 +5,10 @@ published: true
 taxonomy:
     category:
         - docs
+media_order: button_examples.png
 ---
+
+![Examples of HTML buttons.](button_examples.png "Button Examples")
 
 ## Single Buttons
 These can be put anywhere on your page.
