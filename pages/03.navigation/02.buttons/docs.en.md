@@ -11,7 +11,7 @@ taxonomy:
 These can be put anywhere on your page.
 
 ```html
-<a href="#" class="w3-blue w3-button w3-round">Link Button</a>
+<a href="#" class="w3-orange w3-button w3-round">Link Button</a>
 ```
 
 ## Button Groups
