@@ -27,6 +27,6 @@ We put "To Do" items in the code comments to help you. Delete these any time.
 
 Once you realize how much time and money you've saved from our website, would you mind dropping a small tip or donation?
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Leave A Small Tip', '#72a4f2', 'M4M31AR5Y5');kofiwidget2.draw();</script> 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Leave A Tip', '#72a4f2', 'M4M31AR5Y5');kofiwidget2.draw();</script> 
 
 Thank you!
