@@ -1,5 +1,5 @@
 ---
-title: 'Leave a Tip or Donation'
+title: 'Leave a Tip or Donation 🤍'
 date: '20:27 16-06-2026'
 taxonomy:
     category: docs
