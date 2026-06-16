@@ -27,6 +27,6 @@ We put "To Do" items in the code comments to help you. Delete these any time.
 
 Once you realize how much time and money you've saved from our website, would you mind dropping a small tip or donation?
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Leave A Tip', '#72a4f2', 'M4M31AR5Y5');kofiwidget2.draw();</script> 
+<a href='https://ko-fi.com/M4M31AR5Y5' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 Thank you!
