@@ -11,6 +11,4 @@ Welcome to the Easy HTML Template Creator!
 
 Quickly copy and paste your favorite sections to create a beautiful and responsive HTML template.
 
-! 🙂 We are just getting started on putting our resources online.
-! 
-! Please revisit soon for more tools and options!
+! 🙂 We are just getting started. Much more coming very soon!
