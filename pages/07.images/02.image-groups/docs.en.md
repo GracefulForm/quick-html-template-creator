@@ -107,14 +107,17 @@ There are times when you want to display groups of images, such as a photo album
 
 ---
 
-<!-- Trigger Button styling borrows Pure.css button classes -->
 <button class="pure-button pure-button-primary" onclick="document.getElementById('nativeModal').showModal()">
-   Show Code
+  Open Native Modal
 </button>
 
-<dialog id="nativeModal" style="border: none; border-radius: 6px; padding: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.25); max-width: 500px;">
+<!-- 1. The markdown="1" attribute tells Grav to process the content inside as Markdown -->
+<dialog id="nativeModal" markdown="1" style="border: none; border-radius: 6px; padding: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.25); max-width: 600px; width: 100%;">
+  
+### Code Snippet Example
+Here is the code you requested:
 
- ```html
+```html
 <div class="container w3-content">
 	<div class="w3-row-padding w3-margin-top">
 		<div class="w3-third">
@@ -170,9 +173,8 @@ There are times when you want to display groups of images, such as a photo album
 	</div>
 </div>
 ```
- 
-  
-  <!-- Form method="dialog" natively closes the popup without JS custom functions -->
+
+  <!-- 2. Keep a blank line above your HTML form to prevent Markdown conflicts -->
   <form method="dialog" style="text-align: right; margin-top: 20px;">
     <button class="pure-button">Close</button>
   </form>
