@@ -49,6 +49,8 @@ This menu looks good if you already have your business name or logo at the top o
 
 ![Sample opened small centered menu](open_small_,menu_C.png "Sample of Opened Centered Menu on a Small Screen")
 
+<a href="https://gracefulform.github.io/quick-html-template-creator/demo2.html" class="button" style="background-color: #FA5F55; color: #ffffff; border: none; padding: 10px 20px; display: inline-block; text-decoration: none;" target="_blank" rel="noopener noreferrer">Live Preview</a>
+
 ```html
 <nav class="w3-lime w3-bar">
 	<div class="w3-center">
