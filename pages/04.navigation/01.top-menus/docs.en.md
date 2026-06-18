@@ -18,7 +18,7 @@ This menu keeps your business name on the left and your other links to the right
 
 ![Sample open menu on small screen.](open_small_menu_L.png "Open Menu on Small Screen")
 
-<a href="https://gracefulform.github.io/quick-html-template-creator/demo1.html" class="button" target="_blank" rel="noopener noreferrer">Live Preview</a>
+<a href="https://gracefulform.github.io/quick-html-template-creator/demo1.html" class="button button-primary" target="_blank" rel="noopener noreferrer">Live Preview</a>
 
 ```html
 <nav class="w3-blue w3-bar">
