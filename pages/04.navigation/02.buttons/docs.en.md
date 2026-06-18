@@ -17,6 +17,8 @@ These can be put anywhere on your page.
 <a href="#" class="w3-orange w3-button w3-round">Link Button</a>
 ```
 
+--- 
+
 ## Button Groups
 You can group buttons together so they stay next to each other.
 
@@ -27,6 +29,8 @@ You can group buttons together so they stay next to each other.
      <a href="#" class="w3-blue w3-button">Button</a>	
 </div>
 ```
+
+---
 
 ## Button Bars
 This puts the buttons together to form a small mini menu bar that you can put anywhere on your page.
