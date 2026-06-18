@@ -4,6 +4,7 @@ date: '20:01 18-06-2026'
 taxonomy:
     category:
         - docs
+media_order: 'vapor_header.png,bold_business_name.png'
 ---
 
 These headers focus on text and information rather than a large image.
@@ -11,9 +12,7 @@ These headers focus on text and information rather than a large image.
 ## Professional Top Name
 This is used on clean and minimal sites and blogs to show your business or author name.
 
-
-
-<br><img src="https://easyhtmltemplate.com/create/bl-content/uploads/pages/5f0f0f03cf8f51e1ad5adcc93261fbea/bold-business-name-png.png" alt="Business name header that stands out." style="border: 1px solid #cccccc;" /><br>
+![A simple business card style header.](bold_business_name.png "A business name header that stands out.")
 
 ```html
 <header class="w3-center w3-padding-64">
@@ -25,10 +24,10 @@ This is used on clean and minimal sites and blogs to show your business or autho
 
 -----
 
-<h2 id="section">Avatar</h2>
+## Avatar
 This simple author / blog style is credited to a well known blogging theme called Vapor. 
 
-<br><img src="https://easyhtmltemplate.com/create/bl-content/uploads/pages/c9e42ae0759b4fd80e35077e090a6fd2/vapor-header-png.png" alt="Business name header that stands out." style="border: 1px solid #cccccc;" /><br>
+![A small round image for a logo or important person.](vapor_header.png "This is great for a blog or author page.")
 
 ```html
 <header class="w3-container w3-center w3-padding-64">
