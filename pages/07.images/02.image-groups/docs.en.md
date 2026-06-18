@@ -108,7 +108,7 @@ There are times when you want to display groups of images, such as a photo album
 ---
 
 <!-- Button: Opens modal and triggers Prism coloring -->
-<button class="pure-button pure-button-primary" onclick="document.getElementById('nativeModal').showModal(); if(window.Prism) { Prism.highlightAllUnder(document.getElementById('nativeModal')); }">
+<button class="button" style="background-color: #FA5F55; color: #ffffff; border: none; padding: 10px 20px; display: inline-block; text-decoration: none;" onclick="document.getElementById('nativeModal').showModal(); if(window.Prism) { Prism.highlightAllUnder(document.getElementById('nativeModal')); }">
   Open Native Modal
 </button>
 
