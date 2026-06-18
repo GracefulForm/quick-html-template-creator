@@ -5,6 +5,7 @@ published: true
 taxonomy:
     category:
         - docs
+media_order: 'alert_panel_border.png,alert_panel.png'
 ---
 
 These items help catch your reader's eye with important information.
@@ -12,7 +13,7 @@ These items help catch your reader's eye with important information.
 ## Alerts
 These are used as messages to your viewer for helpful info or emergency problems.
 
-
+![An alert panel will catch your visitor's attention.l](alert_panel.png "Alert colors can have different meanings.")
 ![An alert panel will catch your visitor's attention.](https://easyhtmltemplate.com/create/bl-content/uploads/pages/56acd03ef920f6fcf69cdcfaf8e0e53a/alert-panel-png.png)
 
 ```html
