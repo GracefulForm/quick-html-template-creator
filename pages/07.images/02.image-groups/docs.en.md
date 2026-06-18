@@ -120,8 +120,35 @@ There are times when you want to display groups of images, such as a photo album
 
   <!-- 2. The <template> tag keeps all raw HTML completely intact without losing the trailing tags -->
   <template id="raw-code-template">
-<div class="test-element">
-  <p>Hello World</p>
+<div class="w3-container w3-content">
+    <div class="w3-center">
+        <div class="w3-row-padding">
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">President</div>
+                    <img src="https://picsum.photos/id/91/400/300" style="width:100%">
+                </div>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Deputy</div>
+                    <img src="https://picsum.photos/id/175/400/300" style="width:100%">
+                </div>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Queen</div>
+                    <img src="https://picsum.photos/id/177/400/300" style="width:100%">
+                </div>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Aaron</div>
+                    <img src="https://picsum.photos/id/237/400/300" style="width:100%">
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
   </template>
 
