@@ -4,6 +4,7 @@ date: '19:26 18-06-2026'
 taxonomy:
     category:
         - docs
+media_order: 'hero_light.png,standard_header_image.png,hero_dark.png'
 ---
 
 Headers are the first information that your visitor will see. This is where you introduce yourself, your site, or put something unforgettable so they will stay on your page.
@@ -12,9 +13,7 @@ Headers are the first information that your visitor will see. This is where you 
 <h2 id="section">Light Hero Image</h2>
 A hero image is an image that fills the visitor's screen. If your image has lighter colors, then the darker background will make your center text stand out.
 
-
-
-![Hero image with a dark text background.](https://easyhtmltemplate.com/create/bl-content/uploads/pages/5f0f0f03cf8f51e1ad5adcc93261fbea/hero-dark-png.png)
+![Hero image with a dark text background.](hero_dark.png "This helps if you have an image with light colors.")
 
 ```html
 <header class="w3-display-container" style="height: 100vh; width: 100%; background-image: url('https://picsum.photos/1000/667.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; display: flex; align-items: center; justify-content: center;">
@@ -31,7 +30,7 @@ A hero image is an image that fills the visitor's screen. If your image has ligh
 <h2 id="section">Dark Hero Image</h2>
 If your image has darker colors, then the lighter background will make your center text stand out.
 
-![Hero image with a light text background.](https://easyhtmltemplate.com/create/bl-content/uploads/pages/5f0f0f03cf8f51e1ad5adcc93261fbea/hero-light-png.png)
+![Hero image with a light text background](hero_light.png "This helps if your background image has dark colors.")
 
 ```html
 <header class="w3-display-container" style="height: 100vh; width: 100%; background-image: url('https://picsum.photos/1000/667.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; display: flex; align-items: center; justify-content: center;">
@@ -48,7 +47,7 @@ If your image has darker colors, then the lighter background will make your cent
 <h2 id="section">Standard Header Image</h2>
 When you want a header image that is not too big and not too small. Make your image the dimensions that you want before uploading to your site.
 
-![Standard header image with size limitations.](https://easyhtmltemplate.com/create/bl-content/uploads/pages/5f0f0f03cf8f51e1ad5adcc93261fbea/standard-header-image-png.png)
+![Standard header image with size limitations](standard_header_image.png "This gives your header color and interest without taking up too much room.")
 
 ```html
 <header class="w3-display-container w3-wide">
