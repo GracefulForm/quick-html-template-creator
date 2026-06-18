@@ -18,6 +18,8 @@ This menu keeps your business name on the left and your other links to the right
 
 ![Sample open menu on small screen.](open_small_menu_L.png "Open Menu on Small Screen")
 
+[Live Preview: Top Menu](/https://gracefulform.github.io/quick-html-template-creator/demo1.html?classes=button&target=_blank)
+
 ```html
 <nav class="w3-blue w3-bar">
 	<a href="#" class="w3-bar-item w3-button">Business Name</a>
