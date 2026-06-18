@@ -113,7 +113,6 @@ View &amp; Copy HTML
 <dialog id="nativeModal" style="border: none; border-radius: 6px; padding: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.25); max-width: 600px; width: 100%;">
 <pre><code id="modal-code-block" class="language-html"></code></pre>
 <script id="raw-code-template" type="text/plain">
-// code here
 <div class="test-element">
   <p>Hello World</p>
 </div>
