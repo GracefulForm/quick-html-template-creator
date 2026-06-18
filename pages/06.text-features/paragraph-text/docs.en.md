@@ -4,7 +4,7 @@ date: '20:18 18-06-2026'
 taxonomy:
     category:
         - docs
-media_order: 'alert_panel.png,content_margin_text.png,standard_text.png'
+media_order: 'content_margin_text.png,standard_text.png'
 ---
 
 These are the most used items in all web pages. You probably already know these, but they are included here, as a reminder, just in case.
