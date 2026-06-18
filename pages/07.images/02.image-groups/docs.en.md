@@ -109,11 +109,10 @@ There are times when you want to display groups of images, such as a photo album
 
 <!-- Button: Opens modal and triggers Prism coloring -->
 <button class="button" style="background-color: #FA5F55; color: #ffffff; border: none; padding: 10px 20px; display: inline-block; text-decoration: none;" onclick="document.getElementById('nativeModal').showModal(); if(window.Prism) { Prism.highlightAllUnder(document.getElementById('nativeModal')); }">
-  Open Native Modal
+  View &amp; Copy Code
 </button>
 
 <dialog id="nativeModal" style="border: none; border-radius: 6px; padding: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.25); max-width: 600px; width: 100%;">
-  <h3>Code Snippet Example</h3>
 
   <!-- 1. The visible code block stays clean and empty -->
   <pre><code id="modal-code-block" class="language-html"></code></pre>
