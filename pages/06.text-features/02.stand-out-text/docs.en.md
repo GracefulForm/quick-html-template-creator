@@ -14,7 +14,6 @@ These items help catch your reader's eye with important information.
 These are used as messages to your viewer for helpful info or emergency problems.
 
 ![An alert panel will catch your visitor's attention.l](alert_panel.png "Alert colors can have different meanings.")
-![An alert panel will catch your visitor's attention.](https://easyhtmltemplate.com/create/bl-content/uploads/pages/56acd03ef920f6fcf69cdcfaf8e0e53a/alert-panel-png.png)
 
 ```html
 <div class="w3-green w3-panel w3-content">
@@ -26,10 +25,10 @@ These are used as messages to your viewer for helpful info or emergency problems
 
 -----
 
-<h2 id="section">Standout Alerts</h2>
+## Standout Alerts
 The extra border color can get extra attention.
 
-![The extra color on the alert panel will make it more visible.](https://easyhtmltemplate.com/create/bl-content/uploads/pages/56acd03ef920f6fcf69cdcfaf8e0e53a/alert-panel-border-png.png)
+![The extra side color on the alert panel will make it more visible](alert_panel_border.png "Different colors can present different alert feelings.")
 
 ```html
 <div class="w3-pale-blue w3-border-blue w3-panel w3-content w3-leftbar ">
