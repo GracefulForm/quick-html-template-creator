@@ -9,9 +9,9 @@ taxonomy:
 
 Single images can be added to any part of your site. 
 
-## Large Image
+## Rectangle Image
 
-This is great at the top of your blog article or product page. You can change with width of the image by changing the "50%."
+This is great at the top of your blog article or product page. You can change with width of the image by changing the "50%." 
 
 ```html
 <div class="w3-center">
@@ -23,6 +23,7 @@ This is great at the top of your blog article or product page. You can change wi
 
 ## Round Image
 
+The circle is often used to show authors, employees, or other people in an interesting way. You can change the height and width. If your original image is square, you will have a circle. Otherwise it will show an oval. 
 
 ```html
 <div class="w3-center">
