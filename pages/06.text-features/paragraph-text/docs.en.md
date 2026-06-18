@@ -4,6 +4,7 @@ date: '20:18 18-06-2026'
 taxonomy:
     category:
         - docs
+media_order: 'alert_panel.png,content_margin_text.png,standard_text.png'
 ---
 
 These are the most used items in all web pages. You probably already know these, but they are included here, as a reminder, just in case.
@@ -11,7 +12,7 @@ These are the most used items in all web pages. You probably already know these,
 ## Paragraph Text
 This is standard writing with a small space of margins so that the text doesn't go to the sides of the screen.
 
-
+![Standard paragraph text with automatic screen margins.](standard_text.png "This keeps all of your paragraphs uniform and clear.")
 
 ```html
 <div class="w3-container">
@@ -21,10 +22,10 @@ This is standard writing with a small space of margins so that the text doesn't 
 </div>
 ```
 
-<h2 id="section">Content Margin Text</h2>
+## Content Margin Text
 As computer screens get bigger and bigger our ability to read and find content can be more difficult. This code helps your text to stay focused in the middle of the screen for easier reading.
 
-<br><img src="https://easyhtmltemplate.com/create/bl-content/uploads/pages/f0cbfe0336a19c8534aef8cbb798d373/content-margin-text-png.png" alt="Content text with more margins for easier reading." style="border: 1px solid #cccccc;" /><br>
+![Content text with more margins for easier reading near the center of the screen.](content_margin_text.png "This is useful for large screens and looks beautiful.")
 
 ```html
 <div class="w3-container w3-content">
