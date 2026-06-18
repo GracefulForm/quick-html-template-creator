@@ -107,19 +107,29 @@ There are times when you want to display groups of images, such as a photo album
 
 ---
 
+<!-- Button: Opens modal and triggers Prism coloring -->
 <button class="pure-button pure-button-primary" onclick="document.getElementById('nativeModal').showModal(); if(window.Prism) { Prism.highlightAllUnder(document.getElementById('nativeModal')); }">
-View &amp; Copy HTML
+  Open Native Modal
 </button>
+
 <dialog id="nativeModal" style="border: none; border-radius: 6px; padding: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.25); max-width: 600px; width: 100%;">
-<pre><code id="modal-code-block" class="language-html"></code></pre>
-<script id="raw-code-template" type="text/plain">
+  <h3>Code Snippet Example</h3>
+
+  <!-- 1. The visible code block stays clean and empty -->
+  <pre><code id="modal-code-block" class="language-html"></code></pre>
+
+  <!-- 2. The <template> tag keeps all raw HTML completely intact without losing the trailing tags -->
+  <template id="raw-code-template">
 <div class="test-element">
   <p>Hello World</p>
 </div>
- </script>
- <script>
-    document.getElementById('modal-code-block').textContent = document.getElementById('raw-code-template').textContent.trim();
+  </template>
+
+  <!-- 3. Safe script injection pulls the template's innerHTML cleanly -->
+  <script>
+    document.getElementById('modal-code-block').textContent = document.getElementById('raw-code-template').innerHTML.trim();
   </script>
+
   <form method="dialog" style="text-align: right; margin-top: 20px;">
     <button class="pure-button">Close</button>
   </form>
