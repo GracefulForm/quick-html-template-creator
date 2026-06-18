@@ -107,15 +107,15 @@ There are times when you want to display groups of images, such as a photo album
 
 ---
 
-<button class="pure-button pure-button-primary" onclick="document.getElementById('nativeModal').showModal()">
+<!-- 1. The onclick action now opens the modal AND triggers Prism to highlight the newly exposed code -->
+<button class="pure-button pure-button-primary" onclick="document.getElementById('nativeModal').showModal(); if(window.Prism) { Prism.highlightAllUnder(document.getElementById('nativeModal')); }">
   Open Native Modal
 </button>
 
 <dialog id="nativeModal" style="border: none; border-radius: 6px; padding: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.25); max-width: 600px; width: 100%;">
-  <h3>Code Snippet Example</h3>
 
-  <!-- Standard safe method for HTML blocks inside raw elements -->
-  <pre><code>&lt;div class="test-element"&gt;
+  <!-- 2. CRITICAL: Add class="language-xxxx" so Prism knows how to colorize your specific syntax -->
+  <pre><code class="language-html">&lt;div class="test-element"&gt;
   &lt;p&gt;Hello World&lt;/p&gt;
 &lt;/div&gt;</code></pre>
 
