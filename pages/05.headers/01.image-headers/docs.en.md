@@ -5,6 +5,7 @@ taxonomy:
     category:
         - docs
 media_order: 'hero_light.png,standard_header_image.png,hero_dark.png'
+published: true
 ---
 
 Headers are the first information that your visitor will see. This is where you introduce yourself, your site, or put something unforgettable so they will stay on your page.
