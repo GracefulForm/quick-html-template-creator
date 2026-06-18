@@ -1,0 +1,60 @@
+---
+title: 'Image Headers'
+date: '19:26 18-06-2026'
+taxonomy:
+    category:
+        - docs
+---
+
+Headers are the first information that your visitor will see. This is where you introduce yourself, your site, or put something unforgettable so they will stay on your page.
+
+
+<h2 id="section">Light Hero Image</h2>
+A hero image is an image that fills the visitor's screen. If your image has lighter colors, then the darker background will make your center text stand out.
+
+
+
+![Hero image with a dark text background.](https://easyhtmltemplate.com/create/bl-content/uploads/pages/5f0f0f03cf8f51e1ad5adcc93261fbea/hero-dark-png.png)
+
+```html
+<header class="w3-display-container" style="height: 100vh; width: 100%; background-image: url('https://picsum.photos/1000/667.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; display: flex; align-items: center; justify-content: center;">
+	<div class="w3-text-white w3-display-middle w3-center w3-padding w3-round" style="background-color: rgba(0, 0, 0, 0.4);">
+		<h1 class="w3-jumbo  w3-wide">Business Name</h1>
+		<h2>Tagline or brief description.</h2>
+		<p><a href="#" class="w3-black w3-button">Info Button</a> <a href="#" class="w3-blue w3-button">Action Button</a></p>
+	</div>
+</header>
+```
+
+-----
+
+<h2 id="section">Dark Hero Image</h2>
+If your image has darker colors, then the lighter background will make your center text stand out.
+
+![Hero image with a light text background.](https://easyhtmltemplate.com/create/bl-content/uploads/pages/5f0f0f03cf8f51e1ad5adcc93261fbea/hero-light-png.png)
+
+```html
+<header class="w3-display-container" style="height: 100vh; width: 100%; background-image: url('https://picsum.photos/1000/667.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; display: flex; align-items: center; justify-content: center;">
+	<div class="w3-text-black w3-display-middle w3-center w3-padding w3-round" style="background-color: rgba(255, 255, 255, 0.4);">
+		<h1 class="w3-jumbo  w3-wide">Business Name</h1>
+		<h2>Tagline or brief description.</h2>
+		<p><a href="#" class="w3-black w3-button">Info Button</a> <a href="#" class="w3-blue w3-button">Action Button</a></p>
+	</div>
+</header>
+```
+
+-----
+
+<h2 id="section">Standard Header Image</h2>
+When you want a header image that is not too big and not too small. Make your image the dimensions that you want before uploading to your site.
+
+![Standard header image with size limitations.](https://easyhtmltemplate.com/create/bl-content/uploads/pages/5f0f0f03cf8f51e1ad5adcc93261fbea/standard-header-image-png.png)
+
+```html
+<header class="w3-display-container w3-wide">
+     <img class="w3-image" src="https://picsum.photos/1000/300" width="100%">
+	   <div class="w3-display-middle w3-margin-top w3-center">
+		      <h1 class="w3-text-white w3-xxxlarge">Business Name</h1>
+	   </div>
+</header>
+```
