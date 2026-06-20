@@ -16,7 +16,7 @@ The rest of this website is copyrighted and provided according to the following 
 
 **Effective Date:** June 18, 2026
 
-Welcome to EasyHtmlTemplate.com By accessing or using our website, you agree to comply with and be bound by these Terms of Use. If you do not agree, please do not use this site or download our code snippets.
+Welcome to EasyHtmlTemplate.com. By accessing or using our website, you agree to comply with and be bound by these Terms of Use. If you do not agree, please do not use this site or download our code snippets.
 
 ---
 
