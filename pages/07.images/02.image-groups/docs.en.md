@@ -48,6 +48,9 @@ There are times when you want to display groups of images, such as a photo album
 
 ## Photo Gallery
 
+[ui-accordion independent=false open=0]
+[ui-accordion-item title="3 Photos"]
+
 ```html
 <div class="container w3-content">
 	<div class="w3-row-padding w3-margin-top">
@@ -78,3 +81,9 @@ There are times when you want to display groups of images, such as a photo album
 	</div>
 </div>
 ```
+
+[/ui-accordion-item]
+[ui-accordion-item title="4 Photos"]
+(Coming Soon)
+[/ui-accordion-item]
+[/ui-accordion]
