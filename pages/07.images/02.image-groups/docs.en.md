@@ -49,7 +49,7 @@ There are times when you want to display groups of images, such as a photo album
 ## Photo Gallery
 
 [ui-accordion independent=false open=0]
-[ui-accordion-item title="3 Photos <i class="fa fa-caret-down" aria-hidden="true"></i>"]
+[ui-accordion-item title="3 Photos &#9660;"]
 
 ```html
 <div class="container w3-content">
