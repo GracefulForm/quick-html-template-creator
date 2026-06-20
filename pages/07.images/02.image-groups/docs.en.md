@@ -48,7 +48,7 @@ There are times when you want to display groups of images, such as a photo album
 
 ## Photo Gallery
 
-[ui-accordion independent=false open=0]
+[ui-accordion independent=false open=none]
 [ui-accordion-item title="3 Photos &#9660;"]
 
 ```html
@@ -83,7 +83,7 @@ There are times when you want to display groups of images, such as a photo album
 ```
 
 [/ui-accordion-item]
-[ui-accordion-item title="4 Photos"]
+[ui-accordion-item title="4 Photos &#9660;"]
 (Coming Soon)
 [/ui-accordion-item]
 [/ui-accordion]
