@@ -76,31 +76,5 @@ There are times when you want to display groups of images, such as a photo album
 			</div>
 		</div>
 	</div>
-	<div class="w3-row-padding w3-margin-top">
-		<div class="w3-third">
-			<div class="w3-card">
-				<img src="https://picsum.photos/400/300?random=4" style="width:100%">
-				<div class="w3-container">
-					<h5>Birthday</h5>
-				</div>
-			</div>
-		</div>
-		<div class="w3-third">
-			<div class="w3-card">
-				<img src="https://picsum.photos/400/300?random=5" style="width:100%">
-				<div class="w3-container">
-					<h5>Graduation</h5>
-				</div>
-			</div>
-		</div>
-		<div class="w3-third">
-			<div class="w3-card">
-				<img src="https://picsum.photos/400/300?random=6" style="width:100%">
-				<div class="w3-container">
-					<h5>Vacation</h5>
-				</div>
-			</div>
-		</div>
-	</div>
 </div>
 ```
