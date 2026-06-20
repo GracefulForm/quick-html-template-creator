@@ -159,7 +159,6 @@ There are times when you want to display groups of images, such as a photo album
 ```
 
 [/ui-accordion-item]
-[/ui-accordion]
 [ui-accordion-item title="4 Photos Wide &#9660;"]
 
 ```html
