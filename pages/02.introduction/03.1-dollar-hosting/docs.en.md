@@ -8,6 +8,7 @@ taxonomy:
 ---
 
 *Updated 22 June 2026*
+
 Note: ❤️ All of our affiliate links are for services that we use ourselves.
 
 ## $1 Web Hosting
