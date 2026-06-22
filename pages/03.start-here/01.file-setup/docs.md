@@ -13,6 +13,11 @@ All you need is a blank *index.html* file and an *images* folder to put your pic
 
 ![file-setup](file-setup.png "Our creator only requires two simple files for your whole template.")
 
+## Code Previewer
+This is optional, but I created a simple code previewer that automatically has the starter code added and shows you an automatic preview.
+<p><a href="https://gracefulform.github.io/quick-html-template-creator/editor.html" class="button external-link no-image" style="background-color: #FA5F55; color: #ffffff; border: none; padding: 10px 20px; display: inline-block; text-decoration: none;" target="_blank" rel="noopener noreferrer nofollow">&#x1F5A5; Live Preview</a></p>
+
+
 ## Starting Code
 Paste the following HTML code into your *index.html* file.
 
@@ -44,7 +49,3 @@ To Do:
 </body>
 </html>
 ```
-
-## Previewing Your Page
-No server needed. Your computer should be able to open .html files with your browser and preview all you want.
-
