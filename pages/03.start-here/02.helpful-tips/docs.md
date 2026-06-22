@@ -21,7 +21,7 @@ Here are some things we've done to help you to go faster.
 
 ## Images
 
-Our code has dummy images so that you can see how it will look. Replace your image links with "images/image_name.jpg" and put it in your *images* folder.
+Our code has dummy images so that you can see how it will look. Replace your image links with "images/image_name.jpg" and put it in your *images* folder. For example, this sample image `` <img src="https://picsum.photos/800/600" `` will be replaced with `` <img src="images/image_name.jpeg" ``.
 
 ---
 
