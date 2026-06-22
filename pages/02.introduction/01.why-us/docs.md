@@ -5,10 +5,10 @@ published: true
 taxonomy:
     category:
         - docs
-media_order: free-html-code.jpg
+media_order: free-html-tools.jpg
 ---
 
-![Our code is free and easy to use.](free-html-code.jpg "Free with no linkbacks.")
+![Our code is free and easy to use.](free-html-tools.jpg "Free with no linkbacks.")
 
 Have you seen a template creator that includes all of these items?
 
