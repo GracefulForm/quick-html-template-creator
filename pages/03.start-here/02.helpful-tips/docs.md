@@ -33,6 +33,6 @@ We put "To Do" items in the code comments to help you. Delete these any time.
 
 ## Final Words
 
-Once you realize how much time and money you've saved from our website, would you mind dropping a [small tip or donation](https://ko-fi.com/M4M31AR5Y5)?
+Once you realize how much time and money you've saved from our website, would you mind dropping a [small tip or donation](https://ko-fi.com/M4M31AR5Y5)? You may also consider saving a lot of money by using one of our affiliates for hosting or other services. **We only use affiliates for products that we use, trust, and love.**
 
 Thank you!
