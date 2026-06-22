@@ -18,8 +18,6 @@ This menu keeps your business name on the left and your other links to the right
 
 ![Sample open menu on small screen.](open_small_menu_L.png "Open Menu on Small Screen")
 
-<a href="https://gracefulform.github.io/quick-html-template-creator/demo1.html" class="button" style="background-color: #FA5F55; color: #ffffff; border: none; padding: 10px 20px; display: inline-block; text-decoration: none;" target="_blank" rel="noopener noreferrer">Live Preview</a>
-
 ```html
 <nav class="w3-blue w3-bar">
 	<a href="#" class="w3-bar-item w3-button">Business Name</a>
@@ -48,8 +46,6 @@ This menu looks good if you already have your business name or logo at the top o
 ![Sample centered menu on small screen.](small_menu_C.png "Sample of Responsive Centered Menu on a Small Screen")
 
 ![Sample opened small centered menu](open_small_,menu_C.png "Sample of Opened Centered Menu on a Small Screen")
-
-<a href="https://gracefulform.github.io/quick-html-template-creator/demo2.html" class="button" style="background-color: #FA5F55; color: #ffffff; border: none; padding: 10px 20px; display: inline-block; text-decoration: none;" target="_blank" rel="noopener noreferrer">Live Preview</a>
 
 ```html
 <nav class="w3-lime w3-bar">
