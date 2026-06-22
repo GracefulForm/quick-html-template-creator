@@ -9,10 +9,9 @@ taxonomy:
 
 *Updated 22 June 2026*
 
-Note: ❤️ All of our affiliate links are for services that we use ourselves.
+Note: ❤️ All of our affiliate links are for services that we use ourselves. 
 
 ## $1 Web Hosting
-Actually, this is less than $1/month.
 
 * RackNerd cPanel Hosting with 30gb NVMe storage for $10.49 / year. (Average $0.88 cents / month)
 
