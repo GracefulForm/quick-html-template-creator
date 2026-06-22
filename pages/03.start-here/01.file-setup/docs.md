@@ -44,6 +44,7 @@ To Do:
 </body>
 </html>
 ```
+
 ## Code Previewer
 This is optional, but I created a simple code previewer that automatically has the starter code added and shows you an automatic preview.
 <p><a href="https://gracefulform.github.io/quick-html-template-creator/editor.html" class="button external-link no-image" style="background-color: #FA5F55; color: #ffffff; border: none; padding: 10px 20px; display: inline-block; text-decoration: none;" target="_blank" rel="noopener noreferrer nofollow">🖥️ Live Preview</a></p>
