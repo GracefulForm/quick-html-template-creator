@@ -7,6 +7,8 @@ taxonomy:
         - docs
 ---
 
+[toc]
+
 Here are some things we've done to help you to go faster.
 
 ## Colors
@@ -15,13 +17,19 @@ Here are some things we've done to help you to go faster.
 * You can change it to your preferred color, such as "w3-black"
 * You can find all the available colors [HERE](https://www.w3schools.com/w3css/w3css_colors.asp "There are many colors built in to w3.css so you can just type color names instead of color codes.")
 
+---
+
 ## Images
 
 Our code has dummy images so that you can see how it will look. Replace your image links with "images/image_name.jpg" and put it in your *images* folder.
 
+---
+
 ## Comments
 
 We put "To Do" items in the code comments to help you. Delete these any time.
+
+---
 
 ## Final Words
 
