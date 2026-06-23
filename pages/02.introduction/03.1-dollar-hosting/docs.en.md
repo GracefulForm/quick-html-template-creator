@@ -23,3 +23,18 @@ Note: ❤️ All of our affiliate links are for services that we use ourselves.
 
 *We've use racknerd hosting / VPS's for years and have had a wonderful experience. When we order a special promotion, they've always kept honoring the same promotion, year after year, as long as the service is continually used. Their support has been quick and they contact us before any major server maintenance or changes.*
 
+## $1 Domain Names
+
+**NameCheap has a new subscriber special for a .com domain for $6.79 for the first year. (Average $0.57 cents / month)**
+
+<a href="namecheap.pxf.io/oNoWee" class="button" style="background-color: #FA5F55; color: #ffffff; border: none; padding: 10px 20px; display: inline-block; text-decoration: none;" target="_blank" rel="noopener noreferrer">View / Order Here</a>
+
+## Combined Domain / Hosting Package
+**NameCheap has a special with 50% off your first year of hosting and includes a domain name, for $2.28/mo (billed annually).**
+
+<a href="https://namecheap.pxf.io/c/3175234/3483262/5618" class="button" style="background-color: #FA5F55; color: #ffffff; border: none; padding: 10px 20px; display: inline-block; text-decoration: none;" target="_blank" rel="noopener noreferrer">View / Order Here</a>
+
+## Email Hosting
+**If you use a small VPS, you definitely don't want to host your own domain Email. NameCheap has coupons to get your domain Email for $0.99 cents/mo**
+
+<a href="https://namecheap.pxf.io/xJzPLx" class="button" style="background-color: #FA5F55; color: #ffffff; border: none; padding: 10px 20px; display: inline-block; text-decoration: none;" target="_blank" rel="noopener noreferrer">View / Order Here</a>
