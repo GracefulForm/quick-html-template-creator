@@ -55,10 +55,12 @@ When you want a header image that is not too big and not too small. Make your im
 ![Standard header image with size limitations](standard_header_image.png "This gives your header color and interest without taking up too much room.")
 
 ```html
+<!-- Header with Image -->
 <header class="w3-display-container w3-wide">
      <img class="w3-image" src="https://picsum.photos/1000/300" width="100%">
 	   <div class="w3-display-middle w3-margin-top w3-center">
-		      <h1 class="w3-text-white w3-xxxlarge">Business Name</h1>
+		   <h1 class="w3-text-white" style="font-size: clamp(2rem, 5vw, 6rem); margin: 0;">Business Name</h1>   
 	   </div>
 </header>
+<!-- End Header with Image -->
 ```
