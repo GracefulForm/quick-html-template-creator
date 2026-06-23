@@ -20,7 +20,7 @@ A hero image is an image that fills the visitor's screen. If your image has ligh
 <!-- Header with Image -->
 <header class="w3-display-container" style="height: 100vh; width: 100%; background-image: url('https://picsum.photos/1000/667.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; display: flex; align-items: center; justify-content: center;">
     <div class="w3-text-white w3-display-middle w3-center w3-padding w3-round" style="background-color: rgba(0, 0, 0, 0.4);">
-        <h1 class="w3-wide" style="font-size: clamp(2rem, 5vw, 6rem); margin: 0;">Business Name</h1>
+        <h1 class="w3-wide" style="font-size:5vw;">Business Name</h1>
         <h2 class="w3-hide-medium w3-hide-small">Tagline or brief description.</h2>
         <p><a href="#" class="w3-black w3-button w3-margin-top">Info Button</a> <a href="#" class="w3-blue w3-button w3-margin-top">Action Button</a></p>
     </div>
@@ -38,8 +38,8 @@ If your image has darker colors, then the lighter background will make your cent
 ```html
 <!-- Header with Image -->
 <header class="w3-display-container" style="height: 100vh; width: 100%; background-image: url('https://picsum.photos/1000/667.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; display: flex; align-items: center; justify-content: center;">
-    <div class="w3-text-white w3-display-middle w3-center w3-padding w3-round" style="background-color: rgba(255, 255, 255, 0.4);">
-        <h1 class="w3-wide" style="font-size: clamp(2rem, 5vw, 6rem); margin: 0;">Business Name</h1>
+    <div class="w3-display-middle w3-center w3-padding w3-round" style="background-color: rgba(255, 255, 255, 0.4);">
+        <h1 class="w3-wide" style="font-size:5vw;">Business Name</h1>
         <h2 class="w3-hide-medium w3-hide-small">Tagline or brief description.</h2>
         <p><a href="#" class="w3-black w3-button w3-margin-top">Info Button</a> <a href="#" class="w3-blue w3-button w3-margin-top">Action Button</a></p>
     </div>
