@@ -8,45 +8,10 @@ taxonomy:
 
 There are times when you want to display groups of images, such as a photo album, a portfolio, or even just decoration.
 
-## Employee or Labeled Gallery
-
-```html
-<div class="w3-container w3-content">
-	<div class="w3-center">
-		<div class="w3-row-padding">
-			<div class="w3-col l3 m6 w3-margin-bottom">
-				<div class="w3-display-container">
-					<div class="w3-display-topleft w3-black w3-padding">President</div>
-					<img src="https://picsum.photos/id/91/400/300" style="width:100%">
-				</div>
-			</div>
-			<div class="w3-col l3 m6 w3-margin-bottom">
-				<div class="w3-display-container">
-					<div class="w3-display-topleft w3-black w3-padding">Deputy</div>
-					<img src="https://picsum.photos/id/175/400/300" style="width:100%">
-				</div>
-			</div>
-			<div class="w3-col l3 m6 w3-margin-bottom">
-				<div class="w3-display-container">
-					<div class="w3-display-topleft w3-black w3-padding">Queen</div>
-					<img src="https://picsum.photos/id/177/400/300" style="width:100%">
-				</div>
-			</div>
-			<div class="w3-col l3 m6 w3-margin-bottom">
-				<div class="w3-display-container">
-					<div class="w3-display-topleft w3-black w3-padding">Aaron</div>
-					<img src="https://picsum.photos/id/237/400/300" style="width:100%">
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-```
-
-
------
-
 ## Photo Gallery
+This can be used to display photos, office staff, products, and many more uses.
+
+Click the dropdown buttons for different options.
 
 [ui-accordion independent=false open=none]
 [ui-accordion-item title="3 Photos &#9660;"]
