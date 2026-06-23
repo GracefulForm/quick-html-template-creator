@@ -31,6 +31,10 @@ Note: ❤️ All of our affiliate links are for services that we use ourselves.
 
 <a href="namecheap.pxf.io/oNoWee" class="button" style="background-color: #FA5F55; color: #ffffff; border: none; padding: 10px 20px; display: inline-block; text-decoration: none;" target="_blank" rel="noopener noreferrer">View / Order Here</a>
 
+**NameCheap always has several specialty domains for $0.99 cents / year.**
+
+<a href="namecheap.pxf.io/vP4A0O" class="button" style="background-color: #FA5F55; color: #ffffff; border: none; padding: 10px 20px; display: inline-block; text-decoration: none;" target="_blank" rel="noopener noreferrer">View / Order Here</a>
+
 *We've used NameCheap for many years. Their domain and DNS tools are amazing, easy to use, and they have great documentation and help files. We've had clients start new businesses with their bundle deals and now they have a new <a href="https://namecheap.pxf.io/enkGR1" target="_blank" rel="nofollow" >Business Starter Kit for your LLC</a>* 
 
 ## Combined Domain / Hosting Package
