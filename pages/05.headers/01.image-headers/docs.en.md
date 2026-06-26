@@ -11,7 +11,7 @@ published: true
 Headers are the first information that your visitor will see. This is where you introduce yourself, your site, or put something unforgettable so they will stay on your page.
 
 
-<h2 id="section">Light Hero Image</h2>
+## Light Hero Image
 A hero image is an image that fills the visitor's screen. If your image has lighter colors, then the darker background will make your center text stand out.
 
 ![Hero image with a dark text background.](hero_dark.png "This helps if you have an image with light colors.")
@@ -30,7 +30,7 @@ A hero image is an image that fills the visitor's screen. If your image has ligh
 
 -----
 
-<h2 id="section">Dark Hero Image</h2>
+## Dark Hero Image
 If your image has darker colors, then the lighter background will make your center text stand out.
 
 ![Hero image with a light text background](hero_light.png "This helps if your background image has dark colors.")
@@ -47,20 +47,36 @@ If your image has darker colors, then the lighter background will make your cent
 <!-- End Header with Image -->
 ```
 
------
+---
 
-<h2 id="section">Standard Header Image</h2>
-When you want a header image that is not too big and not too small. Make your image the dimensions that you want before uploading to your site.
+## Standard Header Image
+This header image is not too big and not too small. Pick from some light or dark choices below:
 
-![Standard header image with size limitations](standard_header_image.png "This gives your header color and interest without taking up too much room.")
+[ui-accordion independent=false open=none]
+[ui-accordion-item title="Lighten Image with Black Text"]
 
 ```html
-<!-- Header with Image -->
 <header class="w3-display-container w3-wide">
-    <img class="w3-image" src="https://picsum.photos/1000/300" width="100%">
-	<div class="w3-display-middle w3-margin-top w3-center">
-		<h1 class="w3-text-white" style="font-size:5vw;">Business Name</h1>   
+	<img class="w3-image" src="https://picsum.photos/1000/300" style="width:100%;">
+	<div class="w3-white w3-display-topleft w3-opacity-max" style="width:100%; height:100%; position:absolute;"></div>
+	<div class="w3-display-middle w3-margin-top w3-center" style="z-index:1;">
+		<h1 class="w3-text-black" style="font-size: 5vw;">Business Name</h1>
 	</div>
 </header>
-<!-- End Header with Image -->
 ```
+
+[/ui-accordion-item]
+[ui-accordion-item title="Darken Image with White Text"]
+
+```html
+<header class="w3-display-container w3-wide">
+	<img class="w3-image" src="https://picsum.photos/1000/300" style="width:100%;">
+	<div class="w3-black w3-display-topleft w3-opacity-max" style="width:100%; height:100%; position:absolute;"></div>
+	<div class="w3-display-middle w3-margin-top w3-center" style="z-index:1;">
+		<h1 class="w3-text-white" style="font-size: 5vw;">Business Name</h1>
+	</div>
+</header>
+```
+
+[/ui-accordion-item]
+[/ui-accordion]
