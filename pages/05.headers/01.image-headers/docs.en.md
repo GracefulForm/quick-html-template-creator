@@ -54,6 +54,7 @@ This header image is not too big and not too small. Pick from some light or dark
 
 [ui-accordion independent=false open=none]
 [ui-accordion-item title="Lighten Image with Black Text ▼"]
+You can also change the _"w3-white"_ to any color to give it a colored tint.
 
 ```html
 <header class="w3-display-container w3-wide">
@@ -67,6 +68,7 @@ This header image is not too big and not too small. Pick from some light or dark
 
 [/ui-accordion-item]
 [ui-accordion-item title="Darken Image with White Text ▼"]
+You can also change the _"w3-black"_ to any color to give it a colored tint.
 
 ```html
 <header class="w3-display-container w3-wide">
