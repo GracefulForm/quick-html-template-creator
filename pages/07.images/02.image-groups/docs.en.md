@@ -18,32 +18,32 @@ Click the dropdown buttons for different options.
 
 ```html
 <div class="container w3-content">
-	<div class="w3-row-padding w3-margin-top">
-		<div class="w3-third">
-			<div class="w3-card">
-				<img src="https://picsum.photos/400/300?random=1" style="width:100%">
-				<div class="w3-container">
-					<h5>Trip</h5>
-				</div>
-			</div>
-		</div>
-		<div class="w3-third">
-			<div class="w3-card">
-				<img src="https://picsum.photos/400/300?random=2" style="width:100%">
-				<div class="w3-container">
-					<h5>Summer</h5>
-				</div>
-			</div>
-		</div>
-		<div class="w3-third">
-			<div class="w3-card">
-				<img src="https://picsum.photos/400/300?random=3" style="width:100%">
-				<div class="w3-container">
-					<h5>Project</h5>
-				</div>
-			</div>
-		</div>
-	</div>
+    <div class="w3-row-padding w3-margin-top">
+        <div class="w3-third">
+            <div class="w3-card">
+                <img src="https://picsum.photos/400/300?random=1" style="width:100%">
+                <div class="w3-white w3-container">
+                    <h5>Summer Trip</h5>
+                </div>
+            </div>
+        </div>
+        <div class="w3-third">
+            <div class="w3-card">
+                <img src="https://picsum.photos/400/300?random=2" style="width:100%">
+                <div class="w3-white w3-container">
+                    <h5>$15.99 <a href="#" class="w3-blue w3-tiny w3-right w3-button w3-round">Add to Cart</a></h5>
+                </div>
+            </div>
+        </div>
+        <div class="w3-third">
+            <div class="w3-card">
+                <img src="https://picsum.photos/400/300?random=3" style="width:100%">
+                <div class="w3-white w3-container">
+                    <h5>Jason Bourne - CEO</h5>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 ```
 
