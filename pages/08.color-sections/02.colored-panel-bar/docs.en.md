@@ -16,7 +16,7 @@ In this example, I made the top menu purple, added a standard header image with 
 ```html
 
 <div class="w3-deep-purple w3-panel" style="margin-top: 0px;">
-     <p class="w3-center">&nbsp;</p> <!-- You can add optional text here, or just leave this blank space code to keep the panel from shrinking.-->
+     <p class="w3-center">&nbsp;</p> <!-- You can add optional text here, or just leave this "&nbsp;" code.-->
 </div>
 
 ```
