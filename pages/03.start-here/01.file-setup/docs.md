@@ -50,5 +50,5 @@ To Do:
 ---
 
 ## Code Previewer
-This is optional, but I created a simple code previewer that automatically has the starter code added and shows you an automatic preview.
+This is optional, but I created a simple code previewer that automatically has the starter code added and shows you an automatic preview. Just click this button and a new tab will open with the code all ready to go.
 <p><a href="https://gracefulform.github.io/quick-html-template-creator/editor.html" class="button external-link no-image" style="background-color: #FA5F55; color: #ffffff; border: none; padding: 10px 20px; display: inline-block; text-decoration: none;" target="_blank" rel="noopener noreferrer nofollow">🖥️ Live Preview</a></p>
