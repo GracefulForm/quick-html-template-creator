@@ -16,6 +16,7 @@ Quickly copy and paste your favorite sections to create a beautiful and responsi
 
 ---
 
+## Why This Tool?
 <div>
 <p style="text-align: left;">Have you seen a template creator that includes all of these items?&nbsp;🏆</p>
 <ul>
