@@ -5,6 +5,7 @@ taxonomy:
     category:
         - docs
 media_order: section-background-color.jpg
+published: true
 ---
 
 You can add a background color to a section by using this panel. In the sample picture, I pasted the "3 Photos" code.
