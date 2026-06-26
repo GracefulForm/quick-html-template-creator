@@ -54,7 +54,8 @@ These are great for blog home pages, portfolios, news listings, and store produc
 
 ```html
 <div class="w3-content">
-	<!-- This section can repeat as many times as you wish. -->
+	
+    <!-- This section can repeat as many times as you wish. -->
 	<div class="w3-row w3-margin">
 		<div class="w3-third">
 			<img src="https://picsum.photos/400/300?random=1" style="width:100%;min-height:200px">
@@ -69,7 +70,8 @@ These are great for blog home pages, portfolios, news listings, and store produc
 	</div>
 	<hr>
 	<!-- End of repeatable secton. -->
-	<div class="w3-row w3-margin">
+	
+    <div class="w3-row w3-margin">
 		<div class="w3-third">
 			<img src="https://picsum.photos/400/300?random=2" style="width:100%;min-height:200px">
 		</div>
