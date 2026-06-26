@@ -1,5 +1,5 @@
 ---
-title: 'Color Sectioins'
+title: 'Color Sections'
 date: '20:59 26-06-2026'
 published: true
 taxonomy:
