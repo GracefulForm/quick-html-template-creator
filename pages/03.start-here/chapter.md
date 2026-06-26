@@ -8,4 +8,4 @@ taxonomy:
 
 # Start Here
 
-This is the information you need to get started quickly and correctly.
+This section is the information you need to get started quickly and correctly.
