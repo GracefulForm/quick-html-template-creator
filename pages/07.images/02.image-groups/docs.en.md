@@ -9,7 +9,7 @@ taxonomy:
 There are times when you want to display groups of images, such as a photo album, a portfolio, or even just decoration.
 
 ## Photo Gallery
-This can be used to display photos, office staff, products, and many more uses.
+This can be used to display photos, office staff, online store products, and many more uses.
 
 Click the dropdown buttons for different options.
 
