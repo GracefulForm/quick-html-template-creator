@@ -4,7 +4,7 @@ date: '22:03 26-06-2026'
 taxonomy:
     category:
         - docs
-media_order: image-text-columns.jpg
+media_order: 'image-text-columns.jpg,html-article-listings.jpg'
 ---
 
 Text and images can go side by side.
@@ -48,7 +48,7 @@ On small screens, the left column will appear first and the right column below i
 ## Listings
 These are great for blog home pages, portfolios, news listings, and store products.
 
-
+![Use HTML to make a blog or product listing.](html-article-listings.jpg "Blog or Product Listings")
 
 ```html
 <div class="w3-content">
