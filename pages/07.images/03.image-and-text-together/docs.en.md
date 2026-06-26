@@ -85,11 +85,11 @@ These are great for blog home pages, portfolios, news listings, and store produc
 			<img src="https://picsum.photos/400/300?random=3" style="width:100%;min-height:200px">
 		</div>
 		<div class="w3-twothird w3-container">
-			<h2>Article Three</h2>
+			<h2>Shop Product</h2>
 			<p>
 				Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...
 			</p>
-			<a href="#" class="w3-black w3-button w3-small w3-round w3-right">Read More</a>
+			<a href="#" class="w3-black w3-button w3-small w3-round w3-right">Add to Cart</a>
 		</div>
 	</div>
 	<hr>	
