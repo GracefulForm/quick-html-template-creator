@@ -4,12 +4,15 @@ date: '20:39 18-06-2026'
 taxonomy:
     category:
         - docs
+media_order: section-background-color.jpg
 ---
 
 There are times when you want to display groups of images, such as a photo album, a portfolio, or even just decoration.
 
 ## Photo Gallery
 This can be used to display photos, office staff, online store products, and many more uses.
+
+![HTML photo or product boxes.](section-background-color.jpg "Used for albums, portfolios, and online stores.")
 
 Click the dropdown buttons for different options.
 
