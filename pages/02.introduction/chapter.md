@@ -14,8 +14,6 @@ Welcome to the Easy HTML Template Creator!
 
 Quickly copy and paste your favorite sections to create a beautiful and responsive HTML template.
 
-![Our code is free and easy to use.](free-html-tools.jpg "Free with no linkbacks.")
-
 ---
 
 <div>
