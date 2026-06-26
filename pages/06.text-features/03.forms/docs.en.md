@@ -5,10 +5,13 @@ published: true
 taxonomy:
     category:
         - docs
+media_order: contact-form.jpg
 ---
 
 ## Contact Form
 This form is responsive to all screen sizes. You can use it in a column to keep it from taking up the width of the screen, and put your business contact information in the other column.
+
+![contact-form](contact-form.jpg "contact-form")
 
 ```html
 <div class="w3-container">
