@@ -53,7 +53,7 @@ If your image has darker colors, then the lighter background will make your cent
 This header image is not too big and not too small. Pick from some light or dark choices below:
 
 [ui-accordion independent=false open=none]
-[ui-accordion-item title="Lighten Image with Black Text"]
+[ui-accordion-item title="Lighten Image with Black Text ▼"]
 
 ```html
 <header class="w3-display-container w3-wide">
@@ -66,7 +66,7 @@ This header image is not too big and not too small. Pick from some light or dark
 ```
 
 [/ui-accordion-item]
-[ui-accordion-item title="Darken Image with White Text"]
+[ui-accordion-item title="Darken Image with White Text ▼"]
 
 ```html
 <header class="w3-display-container w3-wide">
