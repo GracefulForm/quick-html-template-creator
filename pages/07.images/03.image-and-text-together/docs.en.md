@@ -9,6 +9,8 @@ media_order: 'image-text-columns.jpg,listings.jpg'
 
 Text and images can go side by side.
 
+[toc]
+
 ## Left Image with Right Text
 On small screens, the left column will appear first and the right column below it.
 
