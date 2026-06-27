@@ -5,8 +5,14 @@ taxonomy:
     category: docs
 ---
 
-EasyHTMLTemplate.com >> Creator
-
 # Navigation Menus
 
+[toc]
+
 Here are the most common options for top navigation.
+
+## testing
+hey . this will delete in a few minutes
+## two
+yo
+## three
