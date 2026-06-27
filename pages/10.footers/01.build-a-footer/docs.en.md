@@ -14,13 +14,13 @@ This tool is designed to give you building blocks to create or recreate most com
 Here are some ideas on how to build a footer using the previous elements.
 
 1. Start with this code.
-```html
 
+```html
 <footer>
-<!-- insert elements here to make a footer -->
-	
+<!-- insert elements here to make a footer -->	
 </footer>
 ```
+
 2. In the menu _Colored Sections_ and _Colored Panel Bar_,  paste a panel bar and choose the color of your footer- usually black or the same color as your top menu bar.
 3. In the menu _Columns_ and _Responsive Columns_, paste a group of _Three Columns_.
 4. On the left column, type your business name, address, and phone number, each on a separate line.
