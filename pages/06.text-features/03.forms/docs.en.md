@@ -28,3 +28,12 @@ This form is responsive to all screen sizes. You can use it in a column to keep 
 	</form>
 </div>
 ```
+
+## Search Bar
+You can edit the size of the text box by changing the width to px or %.
+
+```html
+<form class="w3-panel">
+	<input class="w3-input w3-border" placeholder="Search" type="text" style="width:300px">
+</form>
+```
