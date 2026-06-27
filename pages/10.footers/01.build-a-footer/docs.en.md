@@ -5,6 +5,7 @@ published: true
 taxonomy:
     category:
         - docs
+media_order: html-footer-sample.jpg
 ---
 
 ## Putting it All Together - Build a Footer
@@ -37,4 +38,8 @@ Instead of giving you a large chunk of code for your footer, let's see how we ca
 <a href="#" target="_blank">Home</a>
 ```
 7. At the very bottom, of all this, start a new ``<p>paragraph</p>`` and put your copyright, such as ``Copyright &copy; 2026 Your Business. All Rights Reserved.``
+
+How did it go? Here is a possible screenshot:
+
+![html-footer-sample](html-footer-sample.jpg "html-footer-sample")
 
