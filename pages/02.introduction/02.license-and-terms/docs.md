@@ -10,7 +10,8 @@ taxonomy:
 [TOC]
 
 ## TLDR
-Basically, use the code any way you wish, but there is no warranty of any kind.  The rest of this website is copyrighted and provided according to the following terms of use.
+* Basically, use the code any way you wish, but there is no warranty of any kind.  The rest of this website is copyrighted and provided according to the following terms of use.
+* There are no signups so there is no personal info that is taken. Anything you buy, or any links you click to other sites, you are bound by the other websites' terms.
 
 ## Terms of Use
 
