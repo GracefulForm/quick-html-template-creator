@@ -9,6 +9,8 @@ taxonomy:
 # Footers
 The bottom of your website is a common place to put important information.
 
+---
+
 ## Put It All Together
 You can use the previous tools to build a footer.
 
