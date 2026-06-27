@@ -3,6 +3,7 @@ title: Columns
 date: '23:00 26-06-2026'
 taxonomy:
     category: docs
+routable: false
 ---
 
 # Columns
