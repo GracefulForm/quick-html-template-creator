@@ -9,9 +9,9 @@ taxonomy:
 
 ## Putting it All Together - Build a Footer
 
-This tool is designed to give you building blocks to create or recreate most common website elements and then change the colors and images to make them unique to your own site.
+This website is designed to give you building blocks to create or recreate the most common website template elements. As you change the text, colors, and images, you make them unique to your own site.
 
-Here are some ideas on how to build a footer using the previous elements.
+Instead of giving you a large chunk of code for your footer, let's see how we can use our existing code to build one.
 
 1. Start with this code.
 
@@ -22,7 +22,7 @@ Here are some ideas on how to build a footer using the previous elements.
 ```
 
 2. In the menu _Colored Sections_ and _Colored Panel Bar_,  paste a panel bar and choose the color of your footer- usually black or the same color as your top menu bar.
-3. In the menu _Columns_ and _Responsive Columns_, paste a group of _Three Columns_.
+3. In the menu _Columns_ and _Responsive Columns_, paste a group of _Three Columns_ inside your panel bar.
 4. On the left column, type your business name, address, and phone number, each on a separate line.
 5. On the center column, paste a contact form from the menu _Text Features_ and _Forms_.
 6. On the right column, create some hyperlinks, one on each line, for your Terms of Use, Privacy Policy, and any other links that you want. Here is some sample HTML for links:
@@ -36,5 +36,5 @@ Here are some ideas on how to build a footer using the previous elements.
 <br>
 <a href="#" target="_blank">Home</a>
 ```
-7. At the very bottom, put your copyright, such as ``Copyright &copy; 2026 Your Business. All Rights Reserved.``
+7. At the very bottom, of all this, start a new ``<p>paragraph</p>`` and put your copyright, such as ``Copyright &copy; 2026 Your Business. All Rights Reserved.``
 
