@@ -15,8 +15,9 @@ Here are some ideas on how to build a footer using the previous elements.
 
 1. Start with this code.
 ```html
+
 <footer>
-	<!-- insert elements here to make a footer -->
+<!-- insert elements here to make a footer -->
 	
 </footer>
 ```
